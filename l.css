@@ -1,0 +1,47 @@
+/*{"c":"2020-11-30T22:35:03Z","s":"vpcproduction-vpcewforigin-02f879b499b06e8f8","v":"d582d9"}*/
+/*
+ * IMPORTANT: Your use of this software indicates your acceptance of the terms
+ * found at http://www.adobe.com/products/eulas/tou_typekit NOTE THAT YOUR
+ * RIGHTS TO THIS SOFTWARE ARE LIMITED. USE AT YOUR OWN RISK. For font license
+ * information, see the list below.
+ *
+ * open-sans:
+ *   - http://typekit.com/eulas/000000000000000000011c39
+ *   - http://typekit.com/eulas/000000000000000000011c3b
+ *   - http://typekit.com/eulas/000000000000000000011c34
+ * ubuntu:
+ *   - http://typekit.com/eulas/00000000000000003b9b1390
+ *   - http://typekit.com/eulas/00000000000000003b9b1396
+ *
+ * (c) 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
+ */
+
+@font-face {
+font-family:"open-sans";
+src:url("445d0a228b3de7239af15f1a8e63017d4e5e6e43");
+font-style:normal;font-weight:300;
+}
+
+@font-face {
+font-family:"open-sans";
+src:url("ef120c5b07a9c2fb10fe4432d406eb873ab28cb6");
+font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"open-sans";
+src:url("1559f127e4b2b36395f48e096d21ca31cfcfe0e8");
+font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"ubuntu";
+src:url("8df1095788dfc2f9047f096a0f58e04ed7becd1f");
+font-style:normal;font-weight:300;
+}
+
+@font-face {
+font-family:"ubuntu";
+src:url("81958b70afbaea993d7fb221edefe09d4a6f44ed");
+font-style:normal;font-weight:700;
+}
